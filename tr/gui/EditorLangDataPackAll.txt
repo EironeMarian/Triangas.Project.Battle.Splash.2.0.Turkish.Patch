@@ -1,0 +1,691 @@
+{
+  "name": "English (Modding Example)",
+  "dictLangEntry": {
+    "GameSettings+VideoSettings+FrameRateLimit": {
+      "entryID": "GameSettings+VideoSettings+FrameRateLimit",
+      "dictTranslatedPhrase": {
+        "FPS_30": "FPS_30",
+        "FPS_60": "FPS_60",
+        "FPS_120": "FPS_120",
+        "No_Limit": "No_Limit"
+      }
+    },
+    "GameSettings+VideoSettings+FXAAQuality": {
+      "entryID": "GameSettings+VideoSettings+FXAAQuality",
+      "dictTranslatedPhrase": {
+        "None": "None",
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "Super": "Super",
+        "Ultra": "Ultra"
+      }
+    },
+    "GameSettings+VideoSettings+SSAOQuality": {
+      "entryID": "GameSettings+VideoSettings+SSAOQuality",
+      "dictTranslatedPhrase": {
+        "None": "None",
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "Super": "Super",
+        "Ultra": "Ultra"
+      }
+    },
+    "GameSettings+VideoSettings+ColorGrading": {
+      "entryID": "GameSettings+VideoSettings+ColorGrading",
+      "dictTranslatedPhrase": {
+        "None": "None",
+        "Filmic": "Filmic"
+      }
+    },
+    "GameSettings+VideoSettings+BSRenderingPath": {
+      "entryID": "GameSettings+VideoSettings+BSRenderingPath",
+      "dictTranslatedPhrase": {
+        "Forward": "Forward",
+        "Deferred_Experimental": "Deferred_Experimental"
+      }
+    },
+    "GameSettings+VideoSettings+SunShaftsQuality": {
+      "entryID": "GameSettings+VideoSettings+SunShaftsQuality",
+      "dictTranslatedPhrase": {
+        "None": "None",
+        "Emulate": "Emulate",
+        "Low": "Low",
+        "Normal": "Normal",
+        "High": "High"
+      }
+    },
+    "UnityEngine.AnisotropicFiltering": {
+      "entryID": "UnityEngine.AnisotropicFiltering",
+      "dictTranslatedPhrase": {
+        "Disable": "Disable",
+        "Enable": "Enable",
+        "ForceEnable": "ForceEnable"
+      }
+    },
+    "GameSettings+VideoSettings+MXAA": {
+      "entryID": "GameSettings+VideoSettings+MXAA",
+      "dictTranslatedPhrase": {
+        "Disable": "Disable",
+        "MXAAx2": "MXAAx2",
+        "MXAAx4": "MXAAx4",
+        "MXAAx8": "MXAAx8"
+      }
+    },
+    "GameSettings+VideoSettings+DrawDistance": {
+      "entryID": "GameSettings+VideoSettings+DrawDistance",
+      "dictTranslatedPhrase": {
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "Super": "Super"
+      }
+    },
+    "UnityEngine.BlendWeights": {
+      "entryID": "UnityEngine.BlendWeights",
+      "dictTranslatedPhrase": {
+        "OneBone": "OneBone",
+        "TwoBones": "TwoBones",
+        "FourBones": "FourBones"
+      }
+    },
+    "GameSettings+VideoSettings+TextureQuality": {
+      "entryID": "GameSettings+VideoSettings+TextureQuality",
+      "dictTranslatedPhrase": {
+        "Full": "Full",
+        "High": "High",
+        "Medium": "Medium",
+        "Low": "Low",
+        "Lowest": "Lowest"
+      }
+    },
+    "GameSettings+VideoSettings+VSyncMode": {
+      "entryID": "GameSettings+VideoSettings+VSyncMode",
+      "dictTranslatedPhrase": {
+        "None": "None",
+        "Double": "Double",
+        "Triple": "Triple"
+      }
+    },
+    "GameSettings+VideoSettings+ShadowQuality": {
+      "entryID": "GameSettings+VideoSettings+ShadowQuality",
+      "dictTranslatedPhrase": {
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High"
+      }
+    },
+    "GameSettings+VideoSettings+ShadowDistance": {
+      "entryID": "GameSettings+VideoSettings+ShadowDistance",
+      "dictTranslatedPhrase": {
+        "Off": "Off",
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "Super": "Super",
+        "Ultra": "Ultra"
+      }
+    },
+    "UnityEngine.ShadowResolution": {
+      "entryID": "UnityEngine.ShadowResolution",
+      "dictTranslatedPhrase": {
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "VeryHigh": "VeryHigh"
+      }
+    },
+    "GameSettings+VideoSettings+TerrainDetailDistance": {
+      "entryID": "GameSettings+VideoSettings+TerrainDetailDistance",
+      "dictTranslatedPhrase": {
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "Super": "Super",
+        "Ultra": "Ultra"
+      }
+    },
+    "GameSettings+VideoSettings+TerrainTreeBillboardStart": {
+      "entryID": "GameSettings+VideoSettings+TerrainTreeBillboardStart",
+      "dictTranslatedPhrase": {
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "Super": "Super",
+        "Ultra": "Ultra"
+      }
+    },
+    "GameSettings+VideoSettings": {
+      "entryID": "GameSettings+VideoSettings",
+      "dictTranslatedPhrase": {
+        "fpsLimit": "Kare hızı sınırı (FPS sınırı)",
+        "fxaa": "Kenar yumuşatma (FXAA)",
+        "ssao": "Ekran uzayı ortam örtmesi (SSAO)",
+        "camMotionBlur": "Kamera Hareket Bulanıklığı",
+        "colorGradings": "Renk Sınıflandırma",
+        "renderingPath": "İşleme Yolu(Render)",
+        "bloom": "Bloom",
+        "eyeAdaptation": "Göz Adaptasyonu",
+        "sunShaft": "Güneş Mili Etkisi",
+        "chromatic": "Kromatik Sapma",
+        "vignette": "Dekorasyon",
+        "anisotropicFiltering": "Anizotropik Filtreleme",
+        "mxaa": "Kenar Yumuşatm (MXAA)",
+        "drawDistance": "Çizim Uzaklığı",
+        "boneBlendWeights": "Animasyon Kalitesi",
+        "textureQuality": "Doku Kalitesi",
+        "vsync": "VSync modu",
+        "shadowQuality": "Gölge Kalitesi",
+        "shadowDistance": "Gölge Uzaklığı",
+        "shadowResolution": "Gölge Çözünürlüğü",
+        "softVegetation": "Yumuşak Bitki Örtüsü",
+        "softParticle": "Yumuşak Parçacık",
+        "terrainDetailsDistance": "Mesafe Detayı",
+        "terrainTreeDistance": "Ağaç Kalitesi",
+        "defaultFOV": "Varsayılan Görüş Alanı",
+        "maxQueuedFrames": "Maksimum Kuyruğa Alınmış Kareler"
+      }
+    },
+    "GameSettings+AudioSettings": {
+      "entryID": "GameSettings+AudioSettings",
+      "dictTranslatedPhrase": {
+        "isMute": "Mute",
+        "_musicVolume": "Müzik Sesi",
+        "_soundVolume": "Oyun Sesi",
+        "_voiceCharacterVolume": "Karakterin Sesi",
+        "_voiceChatVolume": "Sesli Konuşma",
+        "microphoneDevice": "Mikrofon Aygıtı",
+        "microphoneDevice+Value": "Microphone (Realtek High Definition Audio)"
+      }
+    },
+    "GameSettings+GameplaySettings+MorphAnimationQuality": {
+      "entryID": "GameSettings+GameplaySettings+MorphAnimationQuality",
+      "dictTranslatedPhrase": {
+        "Off": "Off",
+        "Minimal": "Minimal",
+        "Normal": "Normal",
+        "Full": "Full"
+      }
+    },
+    "BattleSplash.Common.AI_Level": {
+      "entryID": "BattleSplash.Common.AI_Level",
+      "dictTranslatedPhrase": {
+        "Weak": "Weak",
+        "Regular": "Regular",
+        "Hard": "Hard",
+        "Expert": "Expert"
+      }
+    },
+    "GameSettings+GameplaySettings+AimDownMode": {
+      "entryID": "GameSettings+GameplaySettings+AimDownMode",
+      "dictTranslatedPhrase": {
+        "Hold": "Hold",
+        "Toggle": "Toggle"
+      }
+    },
+    "GameSettings+GameplaySettings": {
+      "entryID": "GameSettings+GameplaySettings",
+      "dictTranslatedPhrase": {
+        "facialExpression": "Yüz ifadesi",
+        "aiLevelGlobal": "Default AI Level",
+        "adaptiveAI": "Adaptive AI",
+        "enableCloth": "Cloth",
+        "characterShadow": "Yüksek Kaliteli Karakter Gölgesi",
+        "useMod": "Mod Kullanımı",
+        "mouseSensitivity": "Fare Hassasiyeti",
+        "aimDownMode": "Aiming Mode",
+        "invertLookX": "Invert Look X",
+        "invertLookY": "Invert Look Y"
+      }
+    },
+    "GameSettings:Game Settings": {
+      "entryID": "GameSettings:Game Settings",
+      "dictTranslatedPhrase": {
+        "[Level Info][n][Scene]Small Town": "Geniş bir kentsel alan, birçok sığınak sağlar",
+        "[Level Info][n][Scene]Medieval City": "Ortaçağ zamanından antik bir kasaba.",
+        "[Level Info][n][Scene]Medieval Citadel": "İki küçük ortaçağ kasabası arasındaki bir bölge.",
+        "[Level Info][n][Scene]Countryside": "Ağaçlar ve göl ile geniş bir alan.",
+        "[Level Info][n][Scene]Paper World": "Kağıttan yapılmış bir dünya.",
+        "[Level Info][n][Scene]Countryside 2": "<Kırsal kesim 2>",
+        "[Level Info][n][Scene]Snow landscape": "<Kar Gezegeni>",
+        "[Tips]0": "Temiko'nun Keşif Yeri, sınırlı bir mesafedeki diğer Öğelerin yanı sıra düşmanları da tespit etmeye yardımcı olduğundan son derece kullanışlıdır. Akıllıca kullan.",
+        "[Tips]1": "Düşmanlardan korunamıyor musun? Trianga'nın Taretini dene. Yakındaki düşmanları tespit etmeye ve yok etmeye yardımcı olur (İnsanlar için). ISLANMAYIN!",
+        "[Tips]2": "Quadra'nın Kalkanı sadece su sıçramalarını engellemekle kalmaz, aynı zamanda kendisine çarpan mermileri de saptırır. Ayrıca Quadra'yı suya karşı daha az savunmasız hale getirir (tabii ki bir sınır vardır).",
+        "[Tips]3": "Takım arkadaşını canlandırmak mı? Pentaga'nın Disk Kurutucusu dileğinizi gerçekleştirecek. Direkt olarak takım arkadaşınıza ateş edin. Onları arayacak ve kurutacak!",
+        "[Tips]4": "Çatışmaya girmeden önce silahınızı dikkatlice seçin, yoksa işleri alt üst edersiniz. Ancak bu, kahraman olmaya çalışamayacağınız anlamına gelmez.",
+        "[Tips]5": "Su, kaçınmanız gereken şeydir. Sizi yavaşlatır ve size ek sıçrama hasarı verir.",
+        "[Tips]6": "Oyunda Dost Ateşi Bulunur. Arkadaşlarınıza Ateş Etmemeye Dikkat Edin!",
+        "[Tips]7": "İstatistikler, karakterlerin diğerlerinden farklı olmasını sağlar. Ancak bu, birinin diğerlerinden daha iyi performans göstereceği anlamına gelmez."
+      }
+    },
+    "3096335738": {
+      "entryID": "3096335738",
+      "dictTranslatedPhrase": {
+        "255469809": "Tıkla veya Tuşa Bas",
+        "3229083756": "Ana Menü",
+        "6817414": "Oyna",
+        "1914308697": "Sunucular",
+        "3772116519": "Ayarlar",
+        "1534266186": "Yardım",
+        "2521826752": "Çıkış",
+        "631235998": "Geri Bildirim Gönder & Anketler",
+        "2617145659": "//Sosyal Medya//",
+        "689929553": "Facebook",
+        "1842171611": "Discord",
+        "326000283": "Twitter",
+        "1330463557": "Reddit",
+        "2711328855": "Haritalar",
+        "3171199270": "Geri",
+        "3954560700": "Hadi Başlayalım!",
+        "3269776965": "[Harita Seç]",
+        "2718470327": "<Harita Seçilmedi>",
+        "4200785043": "Yükle",
+        "4258392936": "Nasıl Oynanır?",
+        "3673884705": "Basic Control:",
+        "2308519812": "***Applied to Default control***\r\n(You can change the control at the Unity Splash Screen)\r\n<color=yellow>[W][S][A][D] or [Up][Down][Left][Right]</color> - Movement\r\n<color=yellow>[Space]</color> - Jump\r\n<color=yellow>[Left Mouse]</color> - Fire\r\n<color=yellow>[Right Mouse - Hold]</color> - Aim\r\n<color=yellow>[1][2][3][4] or [Mouse Wheel]</color> - Select weapons\r\n<color=yellow>[E]</color> - Inspect Weapon/Enter Weapon Module Selection\r\n<color=yellow>[1][2][3][4]</color> - (When inspecting weapons) Select weapon's modules\r\n<color=yellow>[5] or [G]</color> - Select Item\r\n<color=yellow>[Enter]</color> - Show chat box\r\n<color=yellow>[Y]</color> - Switch chat mode\r\n<color=yellow>[V - Hold]</color> - Voice chat\r\n<color=yellow>[Esc] or [F1]</color> - Brings up menu\r\n<color=yellow>[Tab]</color> - Scrore board",
+        "3087186481": "Advanced Tips:",
+        "1250191809": "- Moving Geriward is <color=yellow>ALWAYS SLOWER</color>\n- <color=yellow>Stats</color> controls everythings, from movement speed to strength.\n- Don't be <color=yellow>TOO PRECISE</color> (i.e aiming at the exact position), the <color=yellow>Accuracy Aid System</color> already did that. But you still have to point your weapon at your enemy.\n- There is no <color=yellow>Critical Point</color>. This means a hit in the leg is no different than a hit in the head.\n- <color=yellow>Water Balloon</color> is the most primitive and light weight weapon that can be used effectively in Medium/Close Range Combat.\n- <color=yellow>Put Away your Weapon or Switch to Water Balloon</color> for full speed. (except for jumping, you're always at full jump strength)\n- <color=yellow>Falling</color> deals <color=yellow>NO DAMAGE</color> (since your character only get wet anyway), but you'll be slowed down for sure.\n-Sometimes switching to another weapon is slower than reloading.",
+        "3805983811": "Yapımcılar",
+        "1013858299": "Game maker Nerd:",
+        "2529509834": "Mai Nguyen Binh Hung\n<i>...or Delta Kangara\n</i>",
+        "3366392964": "Level Design:",
+        "1158199831": "- Mai Nguyen Binh Hung a.k.a Delta Kangara",
+        "1049842909": "Modelling & Riggings:",
+        "4289230808": "- Mai Nguyen Binh Hung a.k.a Delta Kangara",
+        "4139484618": "Programming:",
+        "1273284320": "- Mai Nguyen Binh Hung a.k.a Delta Kangara",
+        "1488188746": "Sound & Musics:",
+        "792034181": "<i>Musics by:</i>\n<color=lime>Groove Studio</color>\n\n<i>Sounds by:</i>\n<color=lime>Michael Zane Brooks</color>\n<i>-----</i>\n<i>Translate</i>\n<color=lime>Özgürcan ÇETİN(Eirone Marian)\n</color>",
+        "2731055707": "Special Thanks:",
+        "962019863": "This game was made possible by the following Patreon(s):\n\n- <color=lime>Trent \"SirTyrent\" Lewis</color> (You are Awesome! Thank you very much!)\n\nAnd:\n\n- <color=lime>Anton Hill</color> (It was a pleasure knowing you. Thank you very much for your supports!)\n\nAnd:\n\n- <color=lime>Ad BachMoe</color> - Marketing Support\n- <color=lime>Nguyen Le Hoang Long</color> - Technical Support\n- <color=lime>Voc Chan</color> - Entertainment 1\n- <color=lime>Jepp Black</color> - Entertainment 2\n\nAnd:\n\n- <color=lime>My Family</color> for keeping me alive.\n- <color=lime>My Friends</color> for being My Friends.\n- <color=lime>My Best friends</color> for being Awesome.\n\n\n- And <color=lime>YOU</color>! Yes, <color=lime>YOU</color>, for playing this game.\n...and <color=lime>your friends</color> too. :D",
+        "3885363911": "Items Usages",
+        "2327712091": "Temiko's Recon Pole",
+        "4073909235": "<color=yellow>Recon Pole</color> is the item of <color=yellow>Temiko Kangara</color>. It allows scanning a wide area for <color=yellow>Enemies</color> and other <color=yellow>Items</color>. Once placed, other members of the team can also see the position of <color=yellow>Enemies</color> and other <color=yellow>Items</color> as well.\n\n- Duration: <color=yellow>30 seconds</color>.\n- Deploy time: <color=yellow>5 seconds</color>.\n- Weight type: <color=yellow>Light Weight</color>.",
+        "1010103680": "Trianga's Turrets",
+        "2783712024": "<color=yellow>Water Turret</color> is the item of <color=yellow>Trianga Polyga</color>. Its function is to seek for closest <color=yellow>Enemy</color> and take them down. However, it can scan <color=yellow>through walls</color> and other <color=yellow>obstacles</color>, thus it will fire even when it <color=yellow>can't actually see</color> the <color=yellow>Enemy</color>.\n\n- Duration: <color=yellow>5 seconds</color>.\n- Deploy time: <color=yellow>5 seconds</color>.\n- Weight type: <color=yellow>Light Weight</color>.",
+        "3140637701": "Pentaga's Disk Dryer",
+        "1363844090": "<color=yellow>Disk Dryer</color> is the item of <color=yellow>Pentaga Polyga</color>. Its function is to seek for closest <color=yellow>Ally</color> and do the following functions:\n+ If <color=yellow>Ally</color> is <color=yellow>Not fully Wet</color>, it will <color=yellow>Dry them out quickly</color> and <color=yellow>disappear</color> after a while.\n+ If <color=yellow>Ally</color> is <color=yellow>Wet and Immobilized</color>, it will <color=yellow>Dry them out Completely</color> after <color=yellow>2 seconds</color>.\n\n- Duration: <color=yellow>5 seconds</color> for <color=yellow>drying mode</color>, <color=yellow>2 seconds</color> for <color=yellow>totally drying mode</color>.\n- Deploy time: <color=yellow>5 seconds</color>.\n- Weight type: <color=yellow>Light Weight</color>.",
+        "1134122300": "Quadra's Shield",
+        "178085333": "<color=yellow>Digital Water Shield</color> is the item of <color=yellow>Quadra Polyga</color>. Its function is to create a  <color=yellow>Digital Shield Plane</color> and a <color=yellow>Spherical Shield</color> that protect <color=yellow>Quadra</color> and her teammates. <color=yellow>Digital Shield Plane</color> will <color=yellow>Deflect</color> any <color=yellow>Water Balloon</color> upon contact, while <color=yellow>Spherical Shield</color> will destroy any <color=yellow>Item</color> that is too close. When activated, <color=yellow>Quadra</color> will not receive any <color=yellow>minor Wet</color> that can't <color=yellow>Wet her Completely</color>.\n\n\n- Battery Duration: around <color=yellow>10 seconds</color> continuously.\n- Reload time: <color=yellow>1 seconds</color> for normal reload, around <color=yellow>2 seconds</color> for reload and reset when battery is <color=yellow>used up</color>.\n- Weight type: <color=yellow>Light Weight</color>.",
+        "396852558": "Videos Extra",
+        "199136655": "<color=cyan>Temiko's Tiny Recon Pole</color>\n\nLearn how to use <color=yellow>Recon Pole</color> with <color=yellow>Tiny Temiko</color>.",
+        "1314581780": "Play",
+        "68137720": "<color=cyan>Trianga's Tiny Turret</color>\n\nLearn how to use <color=yellow>Water Turret</color> with <color=yellow>Tiny Trianga</color>.",
+        "3080716295": "Play",
+        "2137031455": "<color=cyan>Pentaga's Tiny Disk Dryer</color>\n\nLearn how to use <color=yellow>Disk Dryer</color> with <color=yellow>Tiny Pentaga</color>.",
+        "3749547462": "Play",
+        "1250210911": "<color=cyan>Quadra's Tiny Digital Shield</color>\n\nLearn how to use <color=yellow>Digital Shield</color> with <color=yellow>Tiny Quadra</color>.",
+        "1426820701": "Oyna",
+        "2934952684": "Yardım & Bilgilendirme",
+        "3348696856": "Nasıl Oynanır?",
+        "2000522170": "Item Kullanımı",
+        "3266044330": "Yapımcılar",
+        "720694533": "Geri",
+        "4128612498": "Itemler",
+        "1761578035": "Videola",
+        "830496858": "Hazır...",
+        "4149244582": "Yenile",
+        "55652475": "Geri",
+        "3127726055": "Sunucuları Bul"
+      }
+    },
+    "325755437": {
+      "entryID": "325755437",
+      "dictTranslatedPhrase": {
+        "254536293": "Ses Ayarları",
+        "2768207226": "Mikrofon Çıkışları:",
+        "419986712": "Ses:",
+        "4165468207": "Oynanış Ayarları",
+        "3699563555": "Oyuncu Adı:",
+        "3674357253": "Oyuncu Adını Gir...",
+        "2781484787": "Game Play Feature:",
+        "4152856204": "Görüntü Ayarları",
+        "1924558202": " Resolution & Presentation",
+        "2506083321": "Tam Ekran",
+        "1369733528": "Option A",
+        "1698427014": "Option A",
+        "1293539197": "Advanced Settings:",
+        "2662507309": "Görüntü",
+        "1934488180": "Ses",
+        "3012839903": "Oynanış",
+        "3145589559": "Görüntü",
+        "4259008300": "Ses",
+        "8049479": "Oyun",
+        "1464882324": "Geri",
+        "1238967782": "Kapat",
+        "384051785": "Ayarlar"
+      }
+    },
+    "3198262795": {
+      "entryID": "3198262795",
+      "dictTranslatedPhrase": {
+        "3098122390": "<color=yellow><i>Observing</i></color>\n<color=grey>[Jump]</color>: Kamerayı Değiştir, <color=grey>[LMB]/[RMB]</color>: Change Oyuncu",
+        "3573220310": "00:00",
+        "3956901854": "New Text",
+        "3708446754": "New Text",
+        "4140384468": "Scores:",
+        "2947735443": "<Oyun Modu Seç>",
+        "2994233669": "OK",
+        "1584641557": "İptal",
+        "2526012214": "Sunucu Ayarları",
+        "646758205": "Advanced Server Settings:",
+        "2080436961": "Game Mode: ",
+        "3454137953": "OK",
+        "2604488501": "İptal",
+        "2435692097": "<Mode>",
+        "1989714873": "Observing",
+        "2479989334": "Observeing",
+        "3646197761": "Let's play!",
+        "3980265219": "Sunucuyu Başlat",
+        "310449221": "Devam",
+        "317863188": "Karakter Değiştir",
+        "2013052020": "Arkadaşını Davet Et",
+        "1298907614": "Karakter Seçimi",
+        "7202907": "Bağlantıyı Kes",
+        "4179136544": "Sunucu Bul",
+        "2433192980": "Ayarlar",
+        "2426307573": "Ana Menüye Dön",
+        "1138540676": "Menu",
+        "3065593408": "Ana Menü",
+        "228296511": "CharacterSelect",
+        "3604676226": "Geri to Observing",
+        "2436722743": "Geri",
+        "1923360003": "<Ability>",
+        "4145938110": "Pentaga Polyga",
+        "2136147348": "Info",
+        "1705491308": "Profile",
+        "2446909670": "Ability",
+        "2417195846": "<Character Descriptions>",
+        "229863146": "<Character Profile>",
+        "4187687622": "<Character Ability>",
+        "3239080963": "Wet Resistance",
+        "3207464423": "Speed",
+        "481529727": "Strength:",
+        "2837302724": "Accuracy",
+        "2702692619": "Geri",
+        "1062018530": "Available games",
+        "879790778": "Host name or IP:",
+        "711991742": "Host name or IP...",
+        "1033350503": "Port.... (leave blank to use default port)",
+        "4126703982": "Bağlan",
+        "2736944905": "Bağlan",
+        "514245654": "LAN",
+        "3172143080": "Direct Join",
+        "1842256376": "Search for Games",
+        "3850592073": "Direct Join",
+        "3239904805": "Çoklu Oyuncu",
+        "332118974": "Modes"
+      }
+    },
+    "2426835781": {
+      "entryID": "2426835781",
+      "dictTranslatedPhrase": {
+        "606744528": "<Ammo>",
+        "4085512728": "<color=yellow>[E]</color> - Inspect/Change Module",
+        "1505162088": "<Action>",
+        "1388765799": "<Action>",
+        "3461319015": "<Action>",
+        "2213602035": "<Action>",
+        "3959579286": "<Action>",
+        "2256857176": "<Action>",
+        "3247177751": "<Action>",
+        "3128010423": "<Action>",
+        "321880376": "<Action>",
+        "2360995074": "100%",
+        "2606638477": "<Oyuncu Name>",
+        "2317350669": "<team>",
+        "3458723818": "<team>",
+        "4032457073": "Immune",
+        "1266109130": "Slipped",
+        "2369788722": "Wet",
+        "4021555082": "Critical",
+        "2969280840": "100%",
+        "62558816": "Take down",
+        "3015972550": "0",
+        "3290668737": "Streak",
+        "535450533": "0",
+        "2799084398": "Defeated",
+        "3925900345": "0",
+        "2312993578": "Reload",
+        "3146408545": "Bolt",
+        "1342761516": "Heated",
+        "1641931535": "Filling",
+        "2429612544": "Ready"
+      }
+    },
+    "BattleSplash.GameRule.GameState": {
+      "entryID": "BattleSplash.GameRule.GameState",
+      "dictTranslatedPhrase": {
+        "PREPARATION": "PREPARATION",
+        "PRE_ROUND": "PRE_ROUND",
+        "IN_ROUND": "IN_ROUND",
+        "END_ROUND": "END_ROUND",
+        "INTERMISSION": "INTERMISSION"
+      }
+    },
+    "BSObjectBehaviour+ComponentCacheMode": {
+      "entryID": "BSObjectBehaviour+ComponentCacheMode",
+      "dictTranslatedPhrase": {
+        "DesignOnly": "DesignOnly",
+        "RunTime": "RunTime"
+      }
+    },
+    "BattleSplash.GameRule.OfficialRule.RuleTeamFreeForAll": {
+      "entryID": "BattleSplash.GameRule.OfficialRule.RuleTeamFreeForAll",
+      "dictTranslatedPhrase": {
+        "strFFATakeOutOtherTeam+Value": "!!Diğer takımları devirin!!",
+        "strFFAPrepare+Value": "The game will start when one more Oyuncu joins in.",
+        "strStartShortly+Value": "The game will start shortly.",
+        "strTeamWin+Value": "Winners: Team {0}",
+        "strDraw+Value": "It's a Draw!",
+        "strRestartIn+Value": "Restart in {0}",
+        "strHalt+Value": "Halt!",
+        "strEndingIn+Value": "Ending game in {0}",
+        "strStartIn+Value": "Start in: {0}",
+        "strHurryUp+Value": "Hurry up: {0}",
+        "strCharNotiRedeployIn+Value": "Re-deploy in {0}",
+        "strCharNotiPrepareDeploy+Value": "Prepare for redeployment!",
+        "ruleName+Value": "Team Free For All",
+        "ruleDescription+Value": "Choose your character, Jump in, and Enjoy!"
+      }
+    },
+    "BattleSplash.GameRule.OfficialRule.RuleTeamFreeForAll+TFFAParam": {
+      "entryID": "BattleSplash.GameRule.OfficialRule.RuleTeamFreeForAll+TFFAParam",
+      "dictTranslatedPhrase": {
+        "maximumScore": "Max Score (0 = Infinite)",
+        "gameTime": "Game time (in minute, 0 = Infinite)",
+        "intermissionTime": "Intermission delay (in second)",
+        "playWithAI": "Play with AI",
+        "autoBalance": "Auto Balance",
+        "gameName": "Game Name",
+        "gameName+Value": "New Game",
+        "maxOyuncus": "Max Oyuncu",
+        "isPublicServer": "Is Public Server",
+        "teamCount": "Team count",
+        "respawnTime": "Redeploy time (sec)"
+      }
+    },
+    "BattleSplash.GameRule.OfficialRule.RuleSBotGuidance": {
+      "entryID": "BattleSplash.GameRule.OfficialRule.RuleSBotGuidance",
+      "dictTranslatedPhrase": {
+        "strSBotSbotTakenOutPenalty+Value": "SBot was taken out! Penalty to team {0}",
+        "strSBotFindSBot+Value": "Find SBot and lead it Geri to your base!",
+        "strSBotGoCapture+Value": "SBot is weakened. Go Touch It Now!",
+        "strSBotRoundOf+Value": "Round {0} of {1}",
+        "strStartShortly+Value": "The game will start shortly.",
+        "strTeamWin+Value": "Winners: Team {0}",
+        "strDraw+Value": "It's a Draw!",
+        "strRestartIn+Value": "Restart in {0}",
+        "strHalt+Value": "Halt!",
+        "strEndingIn+Value": "Ending game in {0}",
+        "strStartIn+Value": "Start in: {0}",
+        "strHurryUp+Value": "Hurry up: {0}",
+        "strCharNotiRedeployIn+Value": "Re-deploy in {0}",
+        "strCharNotiPrepareDeploy+Value": "Prepare for redeployment!",
+        "ruleName+Value": "SBot Guidance",
+        "ruleDescription+Value": "Tame SBot and guide it to your base!"
+      }
+    },
+    "BattleSplash.GameRule.OfficialRule.RuleSBotGuidance+SBotParam": {
+      "entryID": "BattleSplash.GameRule.OfficialRule.RuleSBotGuidance+SBotParam",
+      "dictTranslatedPhrase": {
+        "roundCount": "Round Count",
+        "timePreRound": "Preparation Time (sec)",
+        "timePerRound": "Round Time (min, 0 = infinite)",
+        "timePreparation": "Warm up Time (sec)",
+        "intermissionTime": "Intermission Time (sec)",
+        "timePostRound": "Post time (sec)",
+        "playWithAI": "Play with AI",
+        "autoBalance": "Auto Balance",
+        "gameName": "Game Name",
+        "gameName+Value": "New Game",
+        "maxOyuncus": "Max Oyuncu",
+        "isPublicServer": "Is Public Server",
+        "teamCount": "Team count",
+        "respawnTime": "Redeploy time (sec)"
+      }
+    },
+    "BattleSplash.GameRule.OfficialRule.RuleTeamTactics": {
+      "entryID": "BattleSplash.GameRule.OfficialRule.RuleTeamTactics",
+      "dictTranslatedPhrase": {
+        "strTacticWarmUp+Value": "Warm up time: {0}:{1}",
+        "strTacticSearchAndTakeDown+Value": "Search and Take Down. Don't get wet!",
+        "strTacticRoundOf+Value": "Round {0} of {1}",
+        "strTacticCharNotiLifeCount+Value": "Life left {0}, Prepare for deployment in {1}",
+        "strTacticCharNotiRedeployNextRound+Value": "Redeployment next round.",
+        "strTacticCharNotiTryHarder+Value": "Try harder next time",
+        "strTacticCharNotiLastGirl+Value": "Warning! Last girl standing!",
+        "strTacticCharNotiSafe+Value": "Safe",
+        "strStartShortly+Value": "The game will start shortly.",
+        "strTeamWin+Value": "Winners: Team {0}",
+        "strDraw+Value": "It's a Draw!",
+        "strRestartIn+Value": "Restart in {0}",
+        "strHalt+Value": "Halt!",
+        "strEndingIn+Value": "Ending game in {0}",
+        "strStartIn+Value": "Start in: {0}",
+        "strHurryUp+Value": "Hurry up: {0}",
+        "strCharNotiRedeployIn+Value": "Re-deploy in {0}",
+        "strCharNotiPrepareDeploy+Value": "Prepare for redeployment!",
+        "ruleName+Value": "Team Tactics",
+        "ruleDescription+Value": "Team up and fight. ONE chance per round!"
+      }
+    },
+    "BattleSplash.GameRule.OfficialRule.RuleTeamTactics+TTacticsParam": {
+      "entryID": "BattleSplash.GameRule.OfficialRule.RuleTeamTactics+TTacticsParam",
+      "dictTranslatedPhrase": {
+        "roundCount": "Round Count",
+        "timePreRound": "Preparation Time (sec)",
+        "timePerRound": "Round Time (min, 0 = infinite)",
+        "timePreparation": "Warm up Time (sec)",
+        "intermissionTime": "Intermission Time (sec)",
+        "timePostRound": "Post time (sec)",
+        "lifeCount": "Life Count",
+        "playWithAI": "Play with AI",
+        "autoBalance": "Auto Balance",
+        "gameName": "Game Name",
+        "gameName+Value": "New Game",
+        "maxOyuncus": "Max Oyuncu",
+        "isPublicServer": "Is Public Server",
+        "teamCount": "Team count",
+        "respawnTime": "Redeploy time (sec)"
+      }
+    },
+    "BattleSplash.BSGUI.HUD.BSHUDBasic": {
+      "entryID": "BattleSplash.BSGUI.HUD.BSHUDBasic",
+      "dictTranslatedPhrase": {
+        "strTakeDown+Value": "Take down",
+        "strAssistTakeDown+Value": "Assist Take down",
+        "strDefeatedBy+Value": "Defeated by",
+        "strSBotObjectiveFailed+Value": "Objective Failed:\n{0} is Wet...",
+        "strSBotTakeSBotOut+Value": "Take {0} down!",
+        "strSBotEscortToBase+Value": "Escort {0} to your base!",
+        "strSBotQuickGoTouch+Value": "Quick!!! GO TOUCH {0} NOW!",
+        "strSBotMoving+Value": "SBOT IS MOVING!!! QUICKLY!!! GO TOUCH {0} NOW!"
+      }
+    },
+    "265185953": {
+      "entryID": "265185953",
+      "dictTranslatedPhrase": {
+        "590705349": "Disable",
+        "3426820610": "Enable"
+      }
+    },
+    "CharacterData:Pentaga": {
+      "entryID": "CharacterData:Pentaga",
+      "dictTranslatedPhrase": {
+        "charDesc": "- Class: <color=lime>Support/Medic</color>\r\n- Height: <color=lime>165cm</color>\r\n- Weight: <color=lime>50kg</color>\r\n- Age: <color=lime>16</color>\r\n- Blood type: <color=lime>A</color>\r\n- Sign: <color=lime>Gemini</color>\r",
+        "charBioDesc": "- The smallest member of the Polyga Family (in terms of ages). \n- Pentaga is Triaga and Quadra's cousin, in upper family position. Hence, she was considered as a \"Little Big-sis\", as of her tense personality. ",
+        "charAbility": "Pentaga's Special Item is the <b>Disk Dryer</b>:\r\n- <color=lime>Seeks</color> out teammate and <color=lime>Drys</color> them.\r\n- Can <color=lime>Revive</color> a downed teammate."
+      }
+    },
+    "CharacterData:Quadra": {
+      "entryID": "CharacterData:Quadra",
+      "dictTranslatedPhrase": {
+        "charDesc": "- Class: <color=lime>Tank/Defend</color>\r\n- Height: <color=lime>180cm</color>\r\n- Weight: <color=lime>100kg</color>\r\n- Age: <color=lime>18</color>\r\n- Blood type: <color=lime>O</color>\r\n- Sign: <color=lime>Pisces</color>",
+        "charBioDesc": "- The 3rd member of Polyga Family.\r\n- She is Pentaga's cousin, also has Trianga as younger sister.\r\n- Working as an undercover officer, her personality is quite shut. Slow but firm, she's got high accuracy and can carry objects without losing speed.",
+        "charAbility": "Quadra's Special Item is the <color=lime>Digital Shield</color>:\r\n- <color=lime>Deflects</color> any Water Balloon and <color=lime>Sends</color> it Geri to its owner upon contact with the Shield's surface.\r\n- <color=lime>Destroys</color> all Enemies' Items in a close range.\r\n- <color=lime>Immunity Bonus</color>: When the Shield is <color=lime>activated</color>, any damage that is not enough to take Quadra down will be <color=lime>Discarded</color>."
+      }
+    },
+    "CharacterData:Temiko": {
+      "entryID": "CharacterData:Temiko",
+      "dictTranslatedPhrase": {
+        "charDesc": "- Class: <color=lime>Scout/Sniper</color>\r\n- Height: <color=lime>167cm</color>\r\n- Weight: <color=lime>60kg</color>\r\n- Age: <color=lime>Classified</color>\r\n- Blood type: <color=lime>B</color>\r\n- Sign: <color=lime>Scorpio</color>",
+        "charBioDesc": "- Adopted by the Kangara's household.\r\n- Strong will and stubborn, she's determined yet impatient.\r",
+        "charAbility": "Temiko's Special Item is the <color=lime>Recon Pole</color>\r\n- <color=lime>Sticks</color> to any surface upon contact.\r\n- <color=lime>Scans and Marks</color> all <color=lime>Enemies and Enemies' Items</color> within a wide range.\r\n- <color=lime>Effect Bonus</color>: Upon activated, all friendlies receive the same <color=lime>Scan Effect</color>."
+      }
+    },
+    "CharacterData:Trianga": {
+      "entryID": "CharacterData:Trianga",
+      "dictTranslatedPhrase": {
+        "charDesc": "- Class: <color=lime>Assault</color>\r\n- Height: <color=lime>175cm</color>\r\n- Weight: <color=lime>55kg</color>\r\n- Age: <color=lime>17</color>\r\n- Blood type: <color=lime>O</color>\r\n- Sign: <color=lime>Virgo</color>",
+        "charBioDesc": "- The 4th member of the Polyga, also Quadra's younger sister.\r\n- Although she is older than Pentaga, she is the smallest member of the Polyga Family in terms of family position.\r",
+        "charAbility": "Trianga's Special Item is the <color=lime>Turret Seed</color>:\r\n- <color=lime>Deploys a Turret</color> on any surface upon contact.\r\n- <color=lime>Turret Effect</color>: Automatically <color=lime>Fires</color> at <color=lime>Enemies</color> at close range.\r\n- <color=lime>Turret Effect</color>: Will <color=lime>Disappear</color> when Trianga got taken down.\r\n- <color=lime>Turret Effect</color>: Can <color=lime>See</color> Enemies through Walls, and cannot attack any <color=lime>Robotic Enemies</color>."
+      }
+    },
+    "BSGUIPack.TakeDownCheck+STATE": {
+      "entryID": "BSGUIPack.TakeDownCheck+STATE",
+      "dictTranslatedPhrase": {
+        "OFF": "OFF",
+        "TAKE_DOWN": "TAKE_DOWN",
+        "DEFEATED": "DEFEATED"
+      }
+    },
+    "BSGUIPack.TakeDownCheck": {
+      "entryID": "BSGUIPack.TakeDownCheck",
+      "dictTranslatedPhrase": {
+        "strTakeDown+Value": "Take Down",
+        "strFriendlyFire+Value": "Friendly Fire",
+        "strDefeated+Value": "Defeated",
+        "femalePronoun+Value": "herself"
+      }
+    },
+    "NetStart+SteamMode": {
+      "entryID": "NetStart+SteamMode",
+      "dictTranslatedPhrase": {
+        "On": "On",
+        "BuildOnly": "BuildOnly",
+        "Off": "Off"
+      }
+    },
+    "UnityEngine.NetworkPeerType": {
+      "entryID": "UnityEngine.NetworkPeerType",
+      "dictTranslatedPhrase": {
+        "DisBağlaned": "DisBağlaned",
+        "Server": "Server",
+        "Client": "Client",
+        "Bağlaning": "Bağlaning"
+      }
+    },
+    "NetStart": {
+      "entryID": "NetStart",
+      "dictTranslatedPhrase": {
+        "strGUIChannel+Value": "Channel:",
+        "strGUIChatAll+Value": "[All]",
+        "strGUIChatAlly+Value": "[Ally]",
+        "strGUIChatSomebody+Value": "[Somebody]",
+        "chatMode+Value": "[All]"
+      }
+    }
+  }
+}
